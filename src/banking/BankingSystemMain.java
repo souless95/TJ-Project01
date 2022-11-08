@@ -31,7 +31,6 @@ public class BankingSystemMain {
 		dt.setName("데몬쓰레드");
 		dt.setDaemon(true);
 		
-		//저장된 
 		handler.readAccountInfo();
 		
 		int choice = 0;

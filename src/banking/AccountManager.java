@@ -236,7 +236,6 @@ public class AccountManager {
 			while(true) {			
 				Account act = (Account) in.readObject();
 				myAccount.add(act);			
-			in.close();
 			}
 			
 		}
