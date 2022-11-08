@@ -9,6 +9,7 @@ public class BankingSystemMain {
 	public static void menuShow() {
 		
 		System.out.println("1차프로젝트(학원)");
+		System.out.println("Pull 테스트");
 		
 		System.out.println();
 		System.out.println("******************* MENU *******************");
